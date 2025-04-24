@@ -1,0 +1,9 @@
+model_path: "models/V5-3-3.pt"
+space_sign: "Space"
+delete_sign: "Delete"
+
+confidence_threshold: 0.7
+default_hold_time: 0.7
+functional_hold_time: 1.0
+cooldown_time: 5.0
+max_detections: 1
