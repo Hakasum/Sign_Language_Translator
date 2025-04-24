@@ -28,9 +28,8 @@ project_root/
 
 ### 1. Clone the repository
 ```bash
-# Replace with your actual GitHub repository URL
 # TODO: Update with your GitHub repo link
-git clone https://github.com/your-username/sign-language-detector.git
+git clone https://github.com/Hakasum/Sign_Language_Translator.git
 cd sign-language-detector
 ```
 
