@@ -15,11 +15,17 @@ project_root/
 ├── config.yaml
 ├── .gitignore
 ├── models/
-│   └── best.pt
+│   └── best.pt               # Your YOLOv8 model (or a placeholder)
+├── data/
+│   └── sample_images/
+│       └── test_image.jpg    # Test image for the notebook
+├── notebooks/
+│   └── sign_language_detector_testing.ipynb  # Jupyter notebook for testing
 └── src/
-    ├── main.py
-    ├── detection.py
-    └── utils.py
+    ├── main.py               # Main real-time detection script
+    ├── detection.py          # Model loading and inference logic
+    └── utils.py              # Helper functions (e.g., filtering detections)
+
 ```
 
 ---
