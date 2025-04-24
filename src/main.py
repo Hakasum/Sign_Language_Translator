@@ -1,8 +1,8 @@
 import cv2
 import time
 import yaml
-from src.detection import load_model, detect, load_config
-from src.utils import filter_detections
+from detection import load_model, detect, load_config
+from utils import filter_detections
 from supervision import ByteTrack, BoxAnnotator, LabelAnnotator
 
 

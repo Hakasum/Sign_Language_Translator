@@ -1,8 +1,8 @@
-model_path: "models/V5-3-3.pt"
+model_path: "models/V6-1-2.pt"
 space_sign: "Space"
 delete_sign: "Delete"
 
-confidence_threshold: 0.7
+confidence_threshold: 0.9
 default_hold_time: 0.7
 functional_hold_time: 1.0
 cooldown_time: 5.0
